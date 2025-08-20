@@ -1,0 +1,30 @@
+
+Sample Next.js Projects
+Policy App
+
+A Minimum Viable Product (MVP) developed during my second semester in the M.Sc. in Collective Intelligence program. This app explores ranking and token allocation methods for prioritization, allowing users to evaluate different decision-making strategies.
+
+Role & Contribution: Designed, implemented, and tested the full-stack application.
+
+Tech Stack: Next.js, Supabase, PostgreSQL
+
+Status: Backend hosting currently unavailable; live preview here: https://policy-clj6.vercel.app/
+
+Source Code: https://github.com/Ayomide-Fagbolade/policy
+
+
+Skills Demonstrated: Full-stack web development, database integration, data visualization, prioritization modeling
+
+Generative Story App
+
+An MVP from the first semester of the M.Sc. in Collective Intelligence program. The app enables collaborative storytelling by combining inputs from multiple participants into a single narrative.
+
+Role & Contribution: Developed front-end and integrated generative AI model for story synthesis.
+
+Tech Stack: Next.js, Firebase, GPT-2.5 (Hugging Face)
+
+Status: Currently offline
+
+Source Code:https://github.com/Ayomide-Fagbolade/generativeci
+
+Skills Demonstrated: Front-end development, Firebase integration, generative AI, collaborative design
